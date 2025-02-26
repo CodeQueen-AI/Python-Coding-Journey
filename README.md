@@ -20,3 +20,5 @@ Welcome to Python Mastery Hub – Your gateway to mastering Python with clarity,
 🔹 Step 08: Syntax 📜
 
 🔹 Step 09: __pycache__ 📦
+
+🔹 Step 10: Python keywords 🔑
