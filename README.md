@@ -22,3 +22,5 @@ Welcome to Python Mastery Hub – Your gateway to mastering Python with clarity,
 🔹 Step 09: __pycache__ 📦
 
 🔹 Step 10: Python keywords 🔑
+
+🔹 Step 11: Google Colab 🟡
