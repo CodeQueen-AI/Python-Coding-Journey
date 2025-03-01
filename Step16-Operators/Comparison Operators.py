@@ -1,0 +1,13 @@
+#Comparison operators
+x = 5 > 3   # Greater than (True)
+print(x)
+y = 5 < 3   # Less than (false)
+print(y)
+z = 5 == 5  # Equal to (True)
+print(z)
+w = 5 != 3  # Not equal to (True)
+print(w)
+p = 5 >= 5  # Greater than or equal to (True)
+print(p)
+q = 5 <= 10 # Less than or equal to (True)
+print(q)
