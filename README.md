@@ -30,24 +30,22 @@ Welcome to Python Mastery Hub – Your gateway to mastering Python with clarity,
 
 🔹 Step 14: Input & Output from Users ⌨️📤
 
-🔹 Step 15: Type Conversion & Type Casting 🔄
+🔹 Step 15: Escape Sequences 🏃‍♂️
 
-🔹 Step 16: Escape Sequences 🏃‍♂️
+🔹 Step 16: Operators ➕➖✖️➗
 
-🔹 Step 17: Operators ➕➖✖️➗
+🔹 Step 17: Conditional Statements ⚖️
 
-🔹 Step 18: Conditional Statements ⚖️
+🔹 Step 18: Understanding Strings 🏷️
 
-🔹 Step 19: Understanding Strings 🏷️
+🔹 Step 19: Lists 📜
 
-🔹 Step 20: Lists 📜
+🔹 Step 20: Sets 🔢
 
-🔹 Step 21: Sets 🔢
+🔹 Step 21: Dictionary 📖
 
-🔹 Step 22: Dictionary 📖
+🔹 Step 22: Tuples 🔗
 
-🔹 Step 23: Tuples 🔗
+🔹 Step 23: Concatenation 🔀
 
-🔹 Step 24: Concatenation 🔀
-
-🔹 Step 25: Tokens in Python 🏆
+🔹 Step 24: Tokens in Python 🏆
