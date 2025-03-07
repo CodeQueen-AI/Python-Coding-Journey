@@ -4,7 +4,7 @@ Welcome to Python Mastery Hub – Your gateway to mastering Python with clarity,
 # 📂 Topics Covered
 🔹 Step 01: Hello World 👋
 
-🔹 Step 02: Variables 🚀
+🔹 Step 02: Variables 🚀 A variable is a named storage that holds a value in memory
 
 🔹 Step 03: Data Types 🏷️
 
