@@ -2,10 +2,8 @@
 > Welcome to Python Mastery Hub – Your gateway to mastering Python with clarity, fun, and real-world applications! Let’s code and conquer! 🎉🔥
 
 
-<span style="color:red">This is red text</span>  
-<span style="color:blue">This is blue text</span>  
-<span style="color:green">This is green text</span>  
-<span style="color:purple">This is purple text</span>
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
 
 # 🧠 Python Knowledge Hub
 🔹 Hello World : A simple program that prints "Hello, World!" to the screen
