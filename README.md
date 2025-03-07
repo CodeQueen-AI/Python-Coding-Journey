@@ -1,8 +1,7 @@
 # 🐍 Python Mastery – From Zero to Hero 🚀
 > Welcome to Python Mastery Hub – Your gateway to mastering Python with clarity, fun, and real-world applications! Let’s code and conquer! 🎉🔥
 
-
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+`Python`
 
 
 # 🧠 Python Knowledge Hub
