@@ -1,8 +1,5 @@
 # 🐍 Python Mastery – From Zero to Hero 🚀
-> Welcome to Python Mastery Hub – Your gateway to mastering Python with clarity, fun, and real-world applications! Let’s code and conquer! 🎉🔥
-
-![Python](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=python)
-
+> Welcome to Python Mastery Hub – Your gateway to mastering Python with clarity, fun, and real-world applications!🎉🔥
 
 # 🧠 Python Knowledge Hub
 🔹 Hello World : A simple program that prints "Hello, World!" to the screen
