@@ -1,6 +1,5 @@
 # 🐍 Python Mastery – From Zero to Hero 🚀
-Welcome to Python Mastery Hub – Your gateway to mastering Python with clarity, fun, and real-world applications! Let’s code and conquer! 🎉🔥
-> This text will appear dull (gray) in GitHub README.
+> Welcome to Python Mastery Hub – Your gateway to mastering Python with clarity, fun, and real-world applications! Let’s code and conquer! 🎉🔥
 
 # 🧠 Python Knowledge Hub
 🔹 Hello World : A simple program that prints "Hello, World!" to the screen
