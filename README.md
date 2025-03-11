@@ -49,3 +49,5 @@
 🔹 Concatenation : Joining two or more strings or sequences together
 
 🔹 Tokens in Python : Basic building blocks of code like keywords, identifiers, and operators
+
+🔹 Loops : A way to repeat a task multiple times until a condition is false
