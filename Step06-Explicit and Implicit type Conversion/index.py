@@ -1,12 +1,9 @@
 # Implicit Type Conversion
-num_int = 10      
-num_float = 3.5  
-result = num_int + num_float  
-print(result)  
-print(type(result))  
+num = 5   # Integer
+result = num + 2.5  # Python automatically converts `num` into float
+print(result)  # Output: 7.5
 
 #Explicit Type Conversion
-num_str = "25" 
-num_int = int(num_str)  
-print(num_int + 5) 
-print(type(num_int))  
+num_str = "10"  # String
+num_int = int(num_str)  # Manually converting string to integer
+print(num_int)  # Output: 10
