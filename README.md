@@ -51,3 +51,5 @@
 🔹 Tokens in Python : Basic building blocks of code like keywords, identifiers, and operators
 
 🔹 Loops : A way to repeat a task multiple times until a condition is false
+
+🔹 Binary Data Types : Binary data types store 0s and 1s. bytes is fixed, bytearray can change
