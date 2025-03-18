@@ -55,3 +55,5 @@
 🔹 Binary Data Types : Binary data types store 0s and 1s. bytes is fixed, bytearray can change
 
 🔹 Number System : A number system is a way to represent and express numbers using a specific base or radix
+
+🔹Naming Conventions : Rules for naming variables, functions, and classes to keep code clear and consistent
