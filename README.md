@@ -65,3 +65,5 @@
 🔹 String Pool : A memory area for reused strings
 
 🔹 Memory Space Sharing : When multiple variables share the same memory location to save space
+
+🔹A way to access binary data directly without copying it
