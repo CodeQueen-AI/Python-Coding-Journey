@@ -58,7 +58,7 @@
 
 🔹 Naming Conventions : Rules for naming variables, functions, and classes to keep code clear and consistent
 
-🔹 Encoding & Character Handling :  The process of converting characters into a specific format for storage, processing, and transmission
+🔹 Encoding & Character Handling : Converting characters into a specific format for use
 
 🔹 String Interning : Storing the same string once to save memory
 
