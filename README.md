@@ -56,4 +56,6 @@
 
 🔹 Number System : A number system is a way to represent and express numbers using a specific base or radix
 
-🔹Naming Conventions : Rules for naming variables, functions, and classes to keep code clear and consistent
+🔹 Naming Conventions : Rules for naming variables, functions, and classes to keep code clear and consistent
+
+🔹 Encoding & Character Handling :  The process of converting characters into a specific format for storage, processing, and transmission
