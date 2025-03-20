@@ -66,4 +66,6 @@
 
 🔹 Memory Space Sharing : Multiple variables using the same memory location
 
-🔹A way to access binary data directly without copying it
+🔹 Modules : A way to access binary data directly without copying it
+
+🔹 FUnctions : A function in Python is a reusable block of code that performs a specific task when called
