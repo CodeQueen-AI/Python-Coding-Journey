@@ -70,7 +70,7 @@
 
 🔹 Functions : A function is a reusable code block that performs a task
 
-🔹 Exception Handling : Exception handling is a way to manage errors in a program without crashing it
+🔹 Exception Handling : It is a way to manage errors in a program without crashing it
 
 🔹 File Handling : File handling manages file operations like read, writ, and edit
 
