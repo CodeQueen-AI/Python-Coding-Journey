@@ -74,4 +74,7 @@
 
 🔹 File Handling : File handling manages file operations like read, writ, and edit
 
+🔹 Mathematical Operations: Performing calculations like addition, subtraction, multiplication and division
+
+🔹 Time Handling & Date Manipulation: Working with dates and times, including formatting, parsing and arithmetic operations
 
