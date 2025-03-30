@@ -3,7 +3,7 @@ print(bin(10))
 
 #Assembly Language
 import ctypes
-print(ctypes.c_int(10).value) 
+print(ctypes.c_int(10).value)
 
 # #C/C++ (Low-Level Languages)
 import ctypes
