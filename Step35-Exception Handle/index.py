@@ -8,7 +8,7 @@ print(num1 / num2)
 try:
     num1 = 10
     num2 = 0
-    result = num1 / num2  
+    result = num1 / num2
     print(result)
 except ZeroDivisionError:
     print("Error: Cannot divide by zero!")
