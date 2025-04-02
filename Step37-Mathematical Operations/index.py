@@ -11,7 +11,6 @@ print(math.floor(4.9))
 import math
 
 angle = math.radians(30)  
-
 print(math.sin(angle)) 
 print(math.cos(angle))
 print(math.tan(angle))
