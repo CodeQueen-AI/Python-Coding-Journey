@@ -9,7 +9,7 @@ print(result)
 def square(n):
     return n * n
 
-print(square(5))  
+print(square(5))
 
 #Returning Multiple Values
 def get_coordinates():
