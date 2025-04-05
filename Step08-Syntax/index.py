@@ -3,7 +3,7 @@ if True:
     print("Indented correctly") 
     
 # if True:
-# print("This will give an error!")   
+# print("This will give an error!") 
 
 #Case Sensitive
 name = "Alice"
