@@ -5,7 +5,7 @@ student = {
     "grade": "A",
     "city": "Karachi"
 }
-print(student.keys())  
+print(student.keys())
 
 #Values()
 student = {
