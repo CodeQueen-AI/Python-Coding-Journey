@@ -5,7 +5,7 @@ def greet(name):
 greet("CodeQueen")  
 
 #Anonymous Functions
-square = lambda x: x * x  
+square = lambda x: x * x
 print(square(5))  
 
 #Arrow Functions
