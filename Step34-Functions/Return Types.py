@@ -2,7 +2,7 @@
 def greet():
     print("Hello, Code Queen!")
 
-result = greet() 
+result = greet()
 print(result)   
 
 #Returning a Single Value
