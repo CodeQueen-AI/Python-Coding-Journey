@@ -4,7 +4,7 @@ print(my_tuple.count(2))
 
 # index()
 my_tuple = (10, 20, 30, 40, 50)
-print(my_tuple.index(30))  
+print(my_tuple.index(30))
 
 # len()
 my_tuple = (10, 20, 30)
