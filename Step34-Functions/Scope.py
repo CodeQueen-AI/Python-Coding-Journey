@@ -9,4 +9,4 @@ print(x)  #Error: x is not defined
 #Block Scope
 if True:
     y = 20  
-print(y) 
+print(y)
