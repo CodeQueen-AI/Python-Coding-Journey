@@ -8,7 +8,7 @@ print(data1[:])
 data = bytearray("Hello", "utf-8")
 data1 = memoryview(data)
 data1[0] = 74  
-print(data)  
+print(data) 
 
 #Slicing in MemoryView
 data = bytearray("Python", "utf-8")
