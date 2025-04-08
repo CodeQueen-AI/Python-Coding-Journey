@@ -6,4 +6,4 @@ greet()
 
 #Function Expression
 greet = lambda: print("Hello, Code Queen!")  
-greet()  
+greet() 
