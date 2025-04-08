@@ -19,7 +19,7 @@ print(formatted_date)
 from datetime import datetime
 date_string = "2025-03-22 14:35:10"
 parsed_date = datetime.strptime(date_string, "%Y-%m-%d %H:%M:%S")
-print(parsed_date)  
+print(parsed_date) 
 
 
 #Find Days Difference (Date Subtraction)
