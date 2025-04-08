@@ -1,7 +1,7 @@
 #Current Date & Time
 from datetime import datetime
 now = datetime.now() 
-print(now)           
+print(now)          
 
 #Set a Specific Date & Time
 from datetime import datetime
