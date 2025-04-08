@@ -9,7 +9,6 @@ print(person1.name)
 print(person1.age)  
 
 
-
 #__str__ (String Representation of Object)
 class Person:
     def __init__(self, name, age):
