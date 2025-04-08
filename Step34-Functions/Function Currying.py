@@ -3,7 +3,7 @@ def multiply(x):
         return x * y
     return inner
 double = multiply(2) 
-print(double(5)) 
+print(double(5))
 print(double(10))  
 
 #Using lambda for Currying
