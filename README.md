@@ -1,5 +1,5 @@
 # 🐍 Python Mastery – From Zero to Hero 🚀
-> Welcome to Python Mastery Hub – Your gateway to mastering Python with clarity, fun, and real-world applications!🎉🔥
+> Welcome to Python Mastery Hub – Your gateway to mastering Python with clarity, fun and real-world applications!🎉🔥
 
 # 🧠 Python Knowledge Hub
 🔹 Hello World : A simple program that prints "Hello, World!" to the screen
