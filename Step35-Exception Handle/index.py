@@ -5,6 +5,7 @@ num2 = 0
 print(num1 / num2)  
 
 #Correct Way of Exception Handling
+
 try:
     num1 = 10
     num2 = 0
