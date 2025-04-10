@@ -80,4 +80,4 @@ except ValueError:
 except Exception as e:
     print(f"Some other error occurred: {e}")
 finally:
-    print("Program has completed.")
+    print("Program has completed")
