@@ -8,7 +8,7 @@ print(math.floor(4.9))
 
 
 #Trigonometric Functions
-import math
+import math 
 
 angle = math.radians(30)  
 print(math.sin(angle))
