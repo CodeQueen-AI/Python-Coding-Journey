@@ -4,7 +4,7 @@ def example():
     print(x)  
 
 example()  
-print(x)  #Error: x is not defined
+print(x) 
 
 #Block Scope
 if True:
