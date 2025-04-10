@@ -12,4 +12,3 @@ encoded_text = text.encode("utf-8")
 print(encoded_text)  
 decoded_text = encoded_text.decode("utf-8")
 print(decoded_text)  
-
