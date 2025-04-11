@@ -6,7 +6,6 @@ for num in range(5):
 for num in range(2, 6):  
     print(num)
 
-
 #Step Value
 for num in range(1, 10, 2):  
     print(num)
