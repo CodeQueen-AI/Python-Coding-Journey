@@ -10,7 +10,6 @@ print(custom_date)
 
 #Convert Date to String Format
 from datetime import datetime
-
 now = datetime.now()
 formatted_date = now.strftime("%Y-%m-%d %H:%M:%S")
 print(formatted_date)  
