@@ -1,4 +1,4 @@
-# Dictionary Unpacking in a Function
+#Dictionary Unpacking in a Function
 def show_details(name, age):
     print(f"Name: {name}, Age: {age}")
 person = {"name": "Code Queen", "age": 22}
