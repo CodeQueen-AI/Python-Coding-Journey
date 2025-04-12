@@ -65,7 +65,7 @@ student = {
 student.popitem()
 print(student)  
 
-#Clear()
+#clear()
 student = {
     "name": "CodeQueen",
     "age": 17,
