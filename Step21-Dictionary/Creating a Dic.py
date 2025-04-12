@@ -16,7 +16,7 @@ values = ["Ifra", 16, "Lahore"]
 person = dict(zip(keys, values))
 print(person)
 
-# Nested Dictionary 
+# Nested Dictionary
 students = {
     "student1": {"name": "Quratulain", "age": 23},
     "student2": {"name": "Jiya", "age": 21}
