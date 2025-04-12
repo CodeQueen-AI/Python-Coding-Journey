@@ -20,6 +20,6 @@ str_dict = defaultdict(str)
 str_dict['d'] += "Hello"  
 print(str_dict)
 
-# Default dictionary example
+# Default dictionary 
 normal_dict = defaultdict(lambda: "Not Found") 
 print(normal_dict['e']) 
