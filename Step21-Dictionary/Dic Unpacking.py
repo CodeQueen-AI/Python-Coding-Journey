@@ -10,7 +10,7 @@ dict2 = {"c": 3, "d": 4}
 merged_dict = {**dict1, **dict2} 
 print(merged_dict)
 
-# Capturing Extra Arguments in a Function
+#Capturing Extra Arguments in a Function
 def show_info(**kwargs):
     print(kwargs)
 show_info(name="Code Queen", age=22, city="Lahore")
