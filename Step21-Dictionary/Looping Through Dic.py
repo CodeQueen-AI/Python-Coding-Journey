@@ -16,7 +16,7 @@ for key, value in my_dict.items():
 for index, (key, value) in enumerate(my_dict.items()):
     print(f"{index}: {key} → {value}")
 
-# Loop Through a Nested Dictionary
+#Loop Through a Nested Dictionary
 students = {
     "student1": {"name": "Anusha", "age": 19},
     "student2": {"name": "Jiya", "age": 21}
