@@ -4,7 +4,7 @@ my_dict = {"name": "CodeQueen", "age": 17, "city": "Karachi"}
 for key in my_dict:
     print(key)
 
-# Loop Through Values
+#Loop Through Values
 for value in my_dict.values():
     print(value)
 
