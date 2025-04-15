@@ -15,7 +15,6 @@ except ZeroDivisionError:
 finally:
     print("This message will always be printed")
 
-
 #Value Error
 #Error Without Exception Handling
 age = int(input("Enter your age: "))  #If the user enters "abc," an error will occur
