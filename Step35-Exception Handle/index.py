@@ -51,7 +51,6 @@ try:
 except IndexError:
     print("Error: This index does not exist in the list!")
 
-
 #KeyError
 #Error Without Exception Handling
 my_dict = {"name": "Alice", "age": 25}
