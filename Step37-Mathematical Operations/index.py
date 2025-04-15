@@ -21,7 +21,6 @@ print(math.log(10))
 print(math.log10(100))
 print(math.exp(2))   
 
-
 #Constants in Math Module
 import math
 
