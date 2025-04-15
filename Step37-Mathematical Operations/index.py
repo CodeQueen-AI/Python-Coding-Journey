@@ -6,7 +6,6 @@ print(math.pow(2, 3))
 print(math.ceil(4.3))  
 print(math.floor(4.9))
 
-
 #Trigonometric Functions
 import math 
 
