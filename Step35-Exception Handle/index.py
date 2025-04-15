@@ -28,7 +28,6 @@ try:
 except ValueError:
     print("Error: Please enter a valid number!")   
 
-
 #TypeError
 #Error Without Exception Handling
 num = 5 + "hello"  #Adding an integer and a string is invalid
