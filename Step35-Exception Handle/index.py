@@ -36,7 +36,6 @@ try:
     num = 5 + "hello"
 except TypeError:
     print("Error: You cannot add an integer and a string!")   
-    
 
 #IndexError
 #Error Without Exception Handling
@@ -61,7 +60,6 @@ try:
     print(my_dict["city"])
 except KeyError:
     print("Error: This key does not exist in the dictionary!")
-  
 
 #Handling Multiple Exceptions
 try:
