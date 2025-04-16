@@ -18,7 +18,6 @@ s3 = "world"
 s4 = "".join(["wo", "rld"]) 
 print(s3 is s4)  
 
-
 #List Memory Sharing
 list1 = [1, 2, 3]
 list2 = [1, 2, 3]
