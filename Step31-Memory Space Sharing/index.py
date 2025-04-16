@@ -25,4 +25,4 @@ print(list1 is list2)
 
 #But if a list is assigned to another variable, the memory is shared
 list3 = list1  
-print(list1 is list3)  # Output: True 
+print(list1 is list3)  # Output:True 
