@@ -14,7 +14,6 @@ for num in (10, 20, 30):
 for key, value in {"name": "Ali", "age": 20}.items():
     print(key, value)
 
-
 # Set Iteration
 for num in {5, 10, 15}:
     print(num)
