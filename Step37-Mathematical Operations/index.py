@@ -16,7 +16,6 @@ print(math.tan(angle))
 
 #Logarithmic & Exponential Functions
 import math
-
 print(math.log(10))  
 print(math.log10(100))
 print(math.exp(2))   
