@@ -20,7 +20,6 @@ print(math.exp(2))
 
 #Constants in Math Module
 import math
-
 print(math.pi)  
 print(math.e)    
 print(math.inf) 
