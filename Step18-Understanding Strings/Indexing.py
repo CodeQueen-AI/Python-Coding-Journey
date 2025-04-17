@@ -1,5 +1,4 @@
 text = "Python"
-
 # Positive Indexing
 print("Positive Indexing")
 print(text[0])  
