@@ -20,7 +20,7 @@ for index, (key, value) in enumerate(my_dict.items()):
 #Loop Through a Nested Dictionary
 students = {
     "student1": {"name": "Anusha", "age": 19},
-    "student2": {"name": "if", "age": 21}
+    "student2": {"name": "ifea", "age": 21}
 }
 
 for student, details in students.items():
