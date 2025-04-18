@@ -1,7 +1,7 @@
 #Dictionary Unpacking in a Function
 def show_details(name, age):
     print(f"Name: {name}, Age: {age}")
-person = {"name": "Code Queen", "age": 22}
+person = {"name": "Code Queen", "age": 21}
 show_details(**person)  
 
 #Merging Dictionaries
