@@ -39,6 +39,7 @@ print(person)
 # bool (boolean)
 is_active = True
 print(is_active)  
+
 # NoneType
 value = None
 print("NoneType:", value)  
