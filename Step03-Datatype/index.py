@@ -35,6 +35,7 @@ print(vowels)
 # dict (dictionary)
 person = {"name": "CodeQueen", "age": 17}
 print(person)  
+
 # bool (boolean)
 is_active = True
 print(is_active)  
