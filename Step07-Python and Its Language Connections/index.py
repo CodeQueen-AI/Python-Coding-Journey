@@ -1,5 +1,6 @@
 # Binary Language
 print(bin(10)) 
+
 #Assembly Language
 import ctypes
 print(ctypes.c_int(10).value)
