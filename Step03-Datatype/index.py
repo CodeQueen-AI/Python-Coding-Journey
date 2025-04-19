@@ -3,7 +3,6 @@ age = 25       # Positive integer
 temperature = -10  # Negative integer
 count = 0      # Zero as an integer
 print(age , temperature , count)          
-
 # float (decimal)
 pi = 3.14
 print(pi)  
