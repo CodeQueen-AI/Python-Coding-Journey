@@ -6,7 +6,6 @@ class Example:
             print(f"Two parameters: {args[0]}, {args[1]}")
         else:
             print("Invalid number of arguments")
-
 obj = Example()
 obj.show(10) 
 obj.show(10, 20) 
