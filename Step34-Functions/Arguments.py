@@ -1,7 +1,6 @@
 #Arguments
 def greet(name):
     print("Hello, " + name + "!")
-
 greet("Code Queen")
 
 #Positional Arguments
