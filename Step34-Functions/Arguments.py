@@ -25,7 +25,6 @@ info(age=17, name="CodeQueen")
 def add_numbers(*numbers):
     total = sum(numbers)
     print(f"Sum: {total}")
-
 add_numbers(2, 4, 6, 8) 
 
 #Arbitrary Keyword Arguments
