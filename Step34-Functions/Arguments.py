@@ -6,13 +6,11 @@ greet("Code Queen")
 #Positional Arguments
 def greet(name, age):
     print(f"Hello {name}, you are {age} years old!")
-
 greet("CodeQueen", 17)  
 
 #Default Arguments
 def greet(name="Code Queen"):
     print(f"Hello, {name}!")
-
 greet()  
 greet("CodeQueen") 
 
