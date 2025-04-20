@@ -31,5 +31,4 @@ add_numbers(2, 4, 6, 8)
 def display_info(**details):
     for key, value in details.items():
         print(f"{key}: {value}")
-
 display_info(name="CodeQueen", age=17, city="Karachi")
