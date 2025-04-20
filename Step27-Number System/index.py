@@ -14,7 +14,7 @@ print(num)
 num = 0xA  
 print(num)  
 
-#convert a number from one system to another in Python, we can use built-in functions
+#Convert a number from one system to another in Python, we can use built-in functions
 num = 10
 print(bin(num))  
 print(oct(num))  
