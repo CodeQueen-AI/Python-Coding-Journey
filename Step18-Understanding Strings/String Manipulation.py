@@ -26,4 +26,4 @@ print(sentence)
 #string Formatting
 name = "Code Queen"
 age = 17
-print(f"My name is {name} and I am {age} years old")  
+print(f"My name is {name} and I am {age} year old")  
