@@ -11,7 +11,6 @@ print(square_lambda(5))
 add = lambda x, y: x + y
 print(add(3, 7))  
 
-
 #Lambda with map & filter
 numbers = [1, 2, 3, 4, 5]
 
