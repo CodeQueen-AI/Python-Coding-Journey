@@ -10,7 +10,7 @@ print(fruits)
 
 # Discard
 fruits = {"Apple", "Banana"}
-fruits.discard("Banana")
+fruits.discard("Banana") 
 print(fruits)
 
 # Pop()
