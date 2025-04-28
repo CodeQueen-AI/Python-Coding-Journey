@@ -13,7 +13,7 @@ print(r.randint(1, 10))
 
 #User-Defined Module
 import module  
-print(module.greet("Code Queen")) 
+print(module.greet("CodeQueen")) 
 print(module.pi_value) 
 
 #Using External Modules
