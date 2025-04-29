@@ -5,7 +5,7 @@ fruits.append("grapes")
 print(fruits)  
 
 #Insert()
-fruits = ["apple", "🍌 banana"]
+fruits = ["apple", "banana"]
 fruits.insert(1, "🍉 watermelon")  
 print(fruits)  
 
