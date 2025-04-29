@@ -6,16 +6,16 @@ print(fruits)
 
 #Insert()
 fruits = ["apple", "banana"]
-fruits.insert(1, "🍉 watermelon")  
+fruits.insert(1, "watermelon")  
 print(fruits)  
 
 #Remove()
-fruits = ["🍎 apple", "🍌 banana", "🍒 cherry"]
-fruits.remove("🍌 banana")  
+fruits = ["apple", "banana", "cherry"]
+fruits.remove("banana")  
 print(fruits)  
 
 #Pop()
-fruits = ["🍎 apple", "🍌 banana", "🍒 cherry"]
+fruits = ["apple", "banana", "🍒 cherry"]
 fruits.pop()  
 print(fruits)  
 
