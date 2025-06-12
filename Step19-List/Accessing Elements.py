@@ -1,30 +1,20 @@
-# Direct Indexing
-fruits = ["Apple", "Banana", "Cherry"]
-print(fruits[0]) 
-print(fruits[1])  
-print(fruits[2])  
+#1- Direct Indexing 
+Fruits = ['apple', 'banana', 'cherry']
+print(Fruits[2])
 
-# Negative Indexing
-fruits = ["Apple", "Banana", "Cherry"]
-print(fruits[-1]) 
-print(fruits[-2]) 
-print(fruits[-3])  
+#2-Positive Indexing
+Colors = ['red', 'green', 'blue']
+print(Colors[0])
 
-# Positive Indexing 
-fruits = ["Apple", "Banana", "Cherry", "Mango"]
-print(fruits[0]) 
-print(fruits[1])  
-print(fruits[2])  
-print(fruits[3]) 
+#3-Negative Indexing
+Animals = ['cat', 'dog', 'elephant']
+print(Animals[-2])
 
-# Accessing Using a Loop 
-fruits = ["Apple", "Banana", "Cherry"]
-for fruit in fruits:
-    print(fruit)  
-
-# Accessing a Range (Slicing) 
-fruits = ["Apple", "Banana", "Cherry", "Mango", "Orange"]
-print(fruits[1:4]) 
-print(fruits[:3])   
-print(fruits[2:])   
-print(fruits[-3:-1]) 
+#4-Accessing a Loop
+Fruits = ['apple', 'banana', 'cherry']
+for fruit in Fruits:
+    print(fruit)
+    
+#5-Accessing a range 
+Fruits = ['apple', 'banana', 'cherry', 'date' , 'mango' , 'kiwi']
+print(Fruits[1:5])  
