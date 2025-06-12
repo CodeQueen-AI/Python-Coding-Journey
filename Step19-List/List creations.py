@@ -1,15 +1,15 @@
-# Empty List
-my_list = []
-print("Empty List:", my_list)  
+#1- Empty List 
+list1 = []
+print(list1)
 
-# List with Elements
-fruits = ["Apple", "Banana", "Cherry"]
-print("List with Elements:", fruits)  
+#2-List WIth Elements
+list2 = ['Apple' , 'Banana' , 'Cherry']
+print(list2)
 
-# List with Mixed Data Types
-mixed_list = [10, "Hello", 3.14, True]
-print("List with Mixed Data Types:", mixed_list)  
+#3-List With Mixed data Types
+list3 = ['Apple' , 1.4 , None]
+print(list3)
 
-# List Using Constructor
-numbers = list((1, 2, 3, 4, 5))
-print("List Using Constructor:", numbers)  
+#4- Constructor List
+list4 = list((1,2,3,4,5))
+print(list4)
