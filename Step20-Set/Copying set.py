@@ -31,3 +31,4 @@ else:
 # Checking absence
 if "Mango" not in fruits:
     print("Mango is not present!")
+
